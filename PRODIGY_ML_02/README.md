@@ -5,17 +5,17 @@
   </div>
 
   <div style="margin-bottom: 20px;">
-    <p style="margin-bottom: 10px;">Clustering algorithms are powerful tools in machine learning for grouping similar data points together. In this study, we will explore four popular clustering algorithms: K-means, Hierarchical, DBSCAN, and Affinity Propagation.</p>
+    <p style="margin-bottom: 10px;">Clustering algorithms are essential tools in machine learning, used for grouping similar data points. This study examines four popular clustering algorithms: K-means, Hierarchical Clustering, DBSCAN, and Affinity Propagation..</p>
   </div>
 
   <div style="margin-bottom: 20px;">
     <h3 style="font-size: 24px; border-bottom: 2px solid #E4D8B4; padding-bottom: 10px;">K-means Clustering</h3>
-    <p style="margin-bottom: 10px;">K-means is an iterative algorithm that partitions data into K distinct clusters based on the proximity of data points to the cluster centroids. It aims to minimize the within-cluster sum of squares. K-means is computationally efficient and works well when clusters are well-separated and of similar size. It requires specifying the number of clusters in advance.</p>
+    <p style="margin-bottom: 10px;">K-means is an iterative algorithm that partitions data into K distinct clusters by assigning data points to the nearest cluster centroids. It minimizes the within-cluster sum of squares, making it computationally efficient and effective for well-separated, similarly-sized clusters. However, it requires the number of clusters to be specified in advance..</p>
   </div>
 
   <div style="margin-bottom: 20px;">
     <h3 style="font-size: 24px; border-bottom: 2px solid #E4D8B4; padding-bottom: 10px;">Hierarchical Clustering</h3>
-    <p style="margin-bottom: 10px;">Hierarchical clustering builds a hierarchy of clusters by iteratively merging or splitting existing clusters based on their similarity. It can be agglomerative (bottom-up) or divisive (top-down). Hierarchical clustering does not require specifying the number of clusters in advance and provides a dendrogram to visualize the clustering hierarchy.</p>
+    <p style="margin-bottom: 10px;">Hierarchical clustering creates a tree-like structure of clusters by either merging (agglomerative) or splitting (divisive) clusters based on similarity. Unlike K-means, it doesn't require specifying the number of clusters beforehand. It provides a dendrogram, a visual representation of the clustering process, which helps in deciding the number of clusters.y.</p>
   </div>
 
   <div style="margin-bottom: 20px;">
