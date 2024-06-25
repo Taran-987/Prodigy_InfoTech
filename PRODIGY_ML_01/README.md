@@ -1,5 +1,6 @@
 # **Problem Statement:**
 🏡 Addressing Real Estate Challenges with Predictive Modeling 🏡
+
 The real estate industry faces significant challenges in accurately predicting the sales prices of residential properties, which impacts the ability of homebuyers and sellers to make well-informed decisions. To address this issue, I have undertaken a predictive modeling task with the goal of forecasting the sales price for each house in a test set. The evaluation metric for this task is the Root-Mean-Squared-Error (RMSE), calculated between the logarithm of the predicted value and the logarithm of the observed sales price. This approach ensures that errors in predicting both expensive and inexpensive houses contribute equally to the evaluation, providing a fair assessment of the model's performance across the entire price spectrum
 
 **Objective:**
