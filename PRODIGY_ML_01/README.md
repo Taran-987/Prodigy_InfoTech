@@ -1,8 +1,9 @@
 # **Problem Statement:**
-The real estate industry faces challenges in accurately predicting the sales prices of residential properties, impacting the ability of homebuyers and sellers to make well-informed decisions. To address this issue, a predictive modeling task has been defined wherein the goal is to forecast the sales price for each house in the test set. The evaluation metric for this task is the Root-Mean-Squared-Error (RMSE), calculated between the logarithm of the predicted value and the logarithm of the observed sales price. This approach is chosen to ensure that errors in predicting both expensive and inexpensive houses contribute equally to the evaluation, providing a fair assessment of the model's performance across the entire price spectrum.
+🏡 Addressing Real Estate Challenges with Predictive Modeling 🏡
+The real estate industry faces significant challenges in accurately predicting the sales prices of residential properties, which impacts the ability of homebuyers and sellers to make well-informed decisions. To address this issue, I have undertaken a predictive modeling task with the goal of forecasting the sales price for each house in a test set. The evaluation metric for this task is the Root-Mean-Squared-Error (RMSE), calculated between the logarithm of the predicted value and the logarithm of the observed sales price. This approach ensures that errors in predicting both expensive and inexpensive houses contribute equally to the evaluation, providing a fair assessment of the model's performance across the entire price spectrum
 
 **Objective:**
-The primary objective of this project is to develop a robust predictive model that accurately estimates the sales prices of houses. The specific goals and objectives are as follows:
+The primary objective of this project is to develop a robust predictive model that accurately estimates the sales prices of houses. Here are the specific goals and objectives:
 
 1. **Prediction Accuracy:** Develop a model that can predict the sales prices of houses with a high degree of accuracy. The use of RMSE ensures that the model is effective across a range of house prices, minimizing the impact of errors in predictions for both high-value and low-value properties.
 
